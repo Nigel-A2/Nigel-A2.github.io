@@ -2,11 +2,12 @@
 
 ## Nigel's Multitool
 
-(Work in progress) [https://nigeloosd.github.io/Nigels-Multitool/](https://nigeloosd.github.io/Nigels-Multitool/)
+Website: [https://nigeloosd.github.io/Nigels-Multitool/](https://nigeloosd.github.io/Nigels-Multitool/)  
+Source code: [https://github.com/NigelOOSD/Nigels-Multitool](https://github.com/NigelOOSD/Nigels-Multitool)
 
 ## RAIN Cooperative's websites
 
-### Blog and planned business directory
+### Company blog site
 [https://raincooperative.com/](https://raincooperative.com/)  
 
 
