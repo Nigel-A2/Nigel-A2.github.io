@@ -5,11 +5,7 @@
 Website: [https://nigel-a2.github.io/Nigels-Multitool/](https://nigel-a2.github.io/Nigels-Multitool/)  
 Source code: [https://github.com/Nigel-A2/Nigels-Multitool](https://github.com/Nigel-A2/Nigels-Multitool)
 
-## RAIN Cooperative's websites
-
-### Company blog site
-[https://raincooperative.com/](https://raincooperative.com/)  
-
+## RAIN Cooperative's website
 
 ### Marketplace website
 Recreation on Github: [https://github.com/Nigel-A2/Marketplace-site-remake](https://github.com/Nigel-A2/Marketplace-site-remake)  
